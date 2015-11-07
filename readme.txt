@@ -1,1 +1,1 @@
-Welcome Summoner \./
+welcome \./
